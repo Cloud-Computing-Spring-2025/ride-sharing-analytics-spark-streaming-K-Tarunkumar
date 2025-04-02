@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-K-Tarunkumar/output/ride_data/part-00000-cc2c8e77-5a42-4cd1-b0d4-c21735f6258d-c000.csv","size":358,"isDir":false,"modificationTime":1743557260420,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-K-Tarunkumar/output/ride_data/part-00001-f82cd849-1b01-4ffd-af24-62137ebca57c-c000.csv","size":356,"isDir":false,"modificationTime":1743557260409,"blockReplication":1,"blockSize":33554432,"action":"add"}
